@@ -10,3 +10,5 @@ Simple bash script which calculates next information:
 
 Usage:
 ./analyzer.sh logfile_here
+
+Solution for: https://roadmap.sh/projects/nginx-log-analyser
